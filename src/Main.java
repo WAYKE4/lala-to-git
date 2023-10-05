@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Input a number");
         int num = scanner.nextInt();
 
-
+    // llalala
     }
 }
 
