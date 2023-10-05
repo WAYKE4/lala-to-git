@@ -5,7 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input a number");
         int num = scanner.nextInt();
-
+        int num1 = scanner.nextInt();
     // llalala
     }
 }
